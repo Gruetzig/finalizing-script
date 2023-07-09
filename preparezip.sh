@@ -30,7 +30,7 @@ cp ../script/finalize.gm9 gm9/scripts/
 
 mkdir luma/payloads
 
-wget https://github.com/d0k3/GodMode9/releases/download/$GM9_LATEST_TAG/$GM9_ZIP_NAME
+wget https://github.com/d0k3/GodMode9/releases/latest/download/$GM9_ZIP_NAME
 unzip $GM9_ZIP_NAME GodMode9.firm -d luma/payloads
 unzip $GM9_ZIP_NAME gm9/scripts/GM9Megascript.gm9 -d finalize
 
