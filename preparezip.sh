@@ -1,3 +1,5 @@
+#!/bin/bash
+
 source ./getcias.sh
 
 # constants because gm9 is suck(if someone maintains this, update it ^^)

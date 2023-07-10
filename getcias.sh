@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TAG_CP="v3.7.4" # has to be constant due to latest having no 3ds release
 
 mkdir cias
